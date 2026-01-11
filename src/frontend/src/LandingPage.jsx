@@ -76,7 +76,7 @@ function LandingPage({ onLogin }) {
   
         <div style={styles.demoBox}>
           <p style={styles.instruction}>Try the Live Demo</p>
-          <p>Text <strong>"BEDS"</strong> to:</p>
+          <p>Text <strong>your need</strong> to:</p>
           <div style={styles.phoneNumber}>+1 (878) 879-5504</div> 
           {/* ^ UPDATE THIS WITH YOUR TWILIO NUMBER */}
         </div>
